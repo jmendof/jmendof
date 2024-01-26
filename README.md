@@ -1,4 +1,4 @@
-![Header](./jmf-foguete.png)
+![Header](./jmf-foguete2.jpeg)
 
 
 <h3 align="left">Connect with me:</h3>
