@@ -1,5 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Julio Farias</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+![Header](./github-header-image.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
