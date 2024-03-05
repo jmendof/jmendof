@@ -1,4 +1,3 @@
-![Header](profile.png)
 <h1 align="center">Hello There! Julio Farias</h1>
 <h3 align="center">Fullstack from Brazil</h3>
 
